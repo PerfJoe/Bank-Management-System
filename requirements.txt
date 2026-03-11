@@ -1,0 +1,2 @@
+﻿# Python dependencies
+# No external dependencies for this basic version
